@@ -1,16 +1,18 @@
 ### Hi there 👋
+### I'm Akshay Ghodke
+#### I'm a MERN stack Developer😄 
+#### ⚡I Love Solving Coding Problems
+#### 🌱🌱🌱Currently working as SDE in SmartCloud Infofusion Pvt Ltd🌱🌱🌱
 
-<!--
-**akshay1996-bit/akshay1996-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PS: All the Repos are Private!!! 😅😅
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshay-ghodke&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats:
+---
+![Akshay github stats](https://github-readme-stats.vercel.app/api?username=akshay-ghodke&theme=radical&show_icons=true&count_private=true)
+
+![Akshay Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-ghodke&theme=solarized_dark)
+![Akshay Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-ghodke&theme=solarized_dark)
+![Akshay Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-ghodke&theme=solarized_dark)
