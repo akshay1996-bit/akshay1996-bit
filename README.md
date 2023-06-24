@@ -4,7 +4,6 @@
 #### ⚡I Love Solving Coding Problems
 #### 🌱🌱🌱Currently working as SDE in SmartCloud Infofusion Pvt Ltd🌱🌱🌱
 
-## PS: All the Repos are Private!!! 😅😅
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshay-ghodke&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
